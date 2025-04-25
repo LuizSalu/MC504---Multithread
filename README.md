@@ -3,7 +3,7 @@ Projeto: Simulador de Mercado Multithread
 Projeto desenvolvido com o objetivo de simular um mercado, com a chegada de clientes, gerenciamento do atendimento no caixa, utilizando técnicas não conflitandes multithreads sendo elas semáforos e mutexes.
 
 ## Integrantes
-Luiz Eduardo Silva Salustriano 183139
+Luiz Eduardo Silva Salustriano 183139,
 Matheus Rufino da Silva 221756
 
 ## Descrição
@@ -32,5 +32,6 @@ Onde
 - “.” =  espaço vazio na fila
 
 ## Vídeo sobre o projeto
-[link]
+https://drive.google.com/file/d/1Ecq1zNv0fzQkgW7SXo95lBj35U-4yo_4/view?usp=drive_link
+
 
